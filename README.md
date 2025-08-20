@@ -1,18 +1,19 @@
-# Blog Analysis Automation
+# Pointr Blog Analysis Automation
 
 ## Overview
 Automated test suite to analyze word frequencies in Pointr Tech blog articles.
 
 ## Requirements
 - Node.js 16+
+  
 - Playwright
 
 ## Installation
-```bash
-npm install
-npx playwright install
+- npm install
 
+- npx playwright install
 
+## RUN
     # Run all browsers
     npx playwright test
     
