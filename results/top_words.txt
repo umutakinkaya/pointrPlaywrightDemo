@@ -1,0 +1,119 @@
+EN ÇOK TEKRARLANAN KELİMELER ANALİZİ
+===================================
+
+MAKALE 1: https://www.pointr.tech/blog/indoor-maps-navigation-integrated-workplace-systems
+MAKALE 2: https://www.pointr.tech/blog/pointr-zappix-automate-streamline-patient-journey
+MAKALE 3: https://www.pointr.tech/blog/designing-real-world-navigation-ux-testing
+
+
+1. MAKALE ANALİZİ: https://www.pointr.tech/blog/indoor-maps-navigation-integrated-workplace-systems
+==================================================
+MAKALE 1: https://www.pointr.tech/blog/indoor-maps-navigation-integrated-workplace-systems
+MAKALE 2: https://www.pointr.tech/blog/pointr-zappix-automate-streamline-patient-journey
+MAKALE 3: https://www.pointr.tech/blog/designing-real-world-navigation-ux-testing
+
+
+1. MAKALE ANALİZİ: https://www.pointr.tech/blog/indoor-maps-navigation-integrated-workplace-systems
+==================================================
+Bireysel Makale - En çok tekrarlanan kelimeler:
+---------------------------------------------
+1. their: 23 kez
+2. building: 21 kez
+3. that: 21 kez
+4. systems: 19 kez
+5. such: 16 kez
+
+Bireysel Makale - En çok tekrarlanan kelimeler:
+---------------------------------------------
+1. their: 23 kez
+2. building: 21 kez
+3. that: 21 kez
+4. systems: 19 kez
+5. such: 16 kez
+
+
+2. MAKALE ANALİZİ: https://www.pointr.tech/blog/pointr-zappix-automate-streamline-patient-journey
+==================================================
+
+2. MAKALE ANALİZİ: https://www.pointr.tech/blog/pointr-zappix-automate-streamline-patient-journey
+==================================================
+Bireysel Makale - En çok tekrarlanan kelimeler:
+---------------------------------------------
+1. patients: 13 kez
+2. with: 12 kez
+3. their: 10 kez
+4. pointr: 9 kez
+5. patient: 9 kez
+
+Bireysel Makale - En çok tekrarlanan kelimeler:
+---------------------------------------------
+1. patients: 13 kez
+2. with: 12 kez
+3. their: 10 kez
+4. pointr: 9 kez
+5. patient: 9 kez
+
+
+3. MAKALE ANALİZİ: https://www.pointr.tech/blog/designing-real-world-navigation-ux-testing
+==================================================
+
+3. MAKALE ANALİZİ: https://www.pointr.tech/blog/designing-real-world-navigation-ux-testing
+==================================================
+Bireysel Makale - En çok tekrarlanan kelimeler:
+---------------------------------------------
+1. this: 12 kez
+2. with: 9 kez
+3. maps: 9 kez
+4. user: 9 kez
+5. design: 8 kez
+
+
+TÜM MAKALELERİN BİRLEŞİK ANALİZİ
+================================
+Tüm Makaleler - En çok tekrarlanan kelimeler:
+--------------------------------------------
+1. their: 35 kez
+2. with: 35 kez
+3. that: 30 kez
+4. maps: 27 kez
+5. systems: 22 kez
+
+İSTATİSTİKLER:
+==============
+Toplam kelime sayısı: 2282
+Benzersiz kelime sayısı: 995
+Analiz edilen makale sayısı: 3
+Kelime çeşitliliği oranı: %43.60
+En sık 5 kelimenin toplam içindeki payı: %6.53
+
+ANALİZ TAMAMLANDI
+================
+Bireysel Makale - En çok tekrarlanan kelimeler:
+---------------------------------------------
+1. this: 12 kez
+2. with: 9 kez
+3. maps: 9 kez
+4. user: 9 kez
+5. design: 8 kez
+
+
+TÜM MAKALELERİN BİRLEŞİK ANALİZİ
+================================
+Tüm Makaleler - En çok tekrarlanan kelimeler:
+--------------------------------------------
+1. their: 35 kez
+2. with: 35 kez
+3. that: 30 kez
+4. maps: 27 kez
+5. systems: 22 kez
+
+İSTATİSTİKLER:
+==============
+Toplam kelime sayısı: 2282
+Benzersiz kelime sayısı: 995
+Analiz edilen makale sayısı: 3
+Kelime çeşitliliği oranı: %43.60
+En sık 5 kelimenin toplam içindeki payı: %6.53
+
+ANALİZ TAMAMLANDI
+================
