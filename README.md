@@ -26,3 +26,5 @@ Automated test suite to analyze word frequencies in Pointr Tech blog articles.
     
     # Generate report
     npx playwright show-report
+
+CI/CD Integration GithubAction workflow is inside the project.
