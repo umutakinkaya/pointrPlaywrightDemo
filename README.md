@@ -3,6 +3,10 @@
 ## Overview
 Automated test suite to analyze word frequencies in Pointr Tech blog articles. Chrome and Firefox will run together and parallel.
 
+txt results will be stored in results/top_words
+
+
+
 ## Requirements
 - Node.js 16+
   
