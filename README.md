@@ -1,7 +1,7 @@
 # Pointr Blog Analysis Automation
 
 ## Overview
-Automated test suite to analyze word frequencies in Pointr Tech blog articles.
+Automated test suite to analyze word frequencies in Pointr Tech blog articles. Chrome and Firefox will run together and parallel.
 
 ## Requirements
 - Node.js 16+
