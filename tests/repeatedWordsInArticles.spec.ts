@@ -77,16 +77,7 @@ test('Verify blog articles and extract repeated words', async ({ page }) => {
     
     // Önce spesifik içerik alanlarını dene
     const contentSelectors = [
-      '#hs_cos_wrapper_post_body',
-      '.post-body',
-      '.blog-post-content',
-      '.article-content',
-      '.content-wrapper',
-      'main article',
-      'article .content',
-      '[class*="content"]',
-      '[class*="body"]',
-      'main'
+      '#hs_cos_wrapper_post_body'
     ];
     
     for (const selector of contentSelectors) {
